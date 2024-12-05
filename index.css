@@ -1,0 +1,32 @@
+h1{
+    text-decoration: underline;
+    background-color: saddlebrown;
+    color: antiquewhite;
+    text-align: center;
+}
+h2{
+    background-color: darkgray;
+}
+table, th, td {
+    border: 1px solid
+    
+}
+th{
+    background-color: cadetblue;
+}
+td{
+    background-color: lightblue;
+}
+table{
+    padding: 30px;
+}
+body{
+    background-color: bisque;
+    text-align: center;
+}
+img{
+    padding: 25px;
+}
+section{
+    border: 1px solid;
+}
